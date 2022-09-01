@@ -3,3 +3,4 @@ contents of my current working directory
 to home directory
  l
 
+hidden files
