@@ -8,3 +8,4 @@ ok
 yeah, done
 directory inside directory
 moving files
+delete
