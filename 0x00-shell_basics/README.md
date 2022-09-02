@@ -6,3 +6,4 @@ to home directory
 hidden files
 ok
 yeah, done
+directory inside directory
