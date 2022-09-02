@@ -10,3 +10,4 @@ directory inside directory
 moving files
 delete
 directory deletion
+change wd to previous one
