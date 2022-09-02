@@ -13,3 +13,4 @@ directory deletion
 change wd to previous one
 list hideen files in cwd and par of cwd
 printing
+creating symbolic link
