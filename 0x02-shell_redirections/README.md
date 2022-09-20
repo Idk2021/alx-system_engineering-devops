@@ -10,3 +10,4 @@ directing to a file
 duplilcate
 deletion
 listing directories
+ten newest files
