@@ -8,3 +8,4 @@ third line
 single quoting file
 directing to a file
 duplilcate
+deletion
