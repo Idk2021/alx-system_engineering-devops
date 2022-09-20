@@ -6,3 +6,4 @@ last 10 lines
 first 10 lines
 third line 
 single quoting file
+directing to a file
