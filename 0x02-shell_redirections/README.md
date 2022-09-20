@@ -9,3 +9,4 @@ single quoting file
 directing to a file
 duplilcate
 deletion
+listing directories
