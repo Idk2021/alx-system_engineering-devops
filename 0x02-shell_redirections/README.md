@@ -12,3 +12,4 @@ deletion
 listing directories
 ten newest files
 13-unique
+using grep to find a word
