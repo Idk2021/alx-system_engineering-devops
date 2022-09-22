@@ -15,3 +15,4 @@ ten newest files
 using grep to find a word
 find all
 16-whatsnext
+18-letteronly
