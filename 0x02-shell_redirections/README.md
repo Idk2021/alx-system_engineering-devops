@@ -17,3 +17,4 @@ find all
 16-whatsnext
 18-letteronly
 word replacement
+delete letters
